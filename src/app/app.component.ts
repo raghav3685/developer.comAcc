@@ -38,19 +38,19 @@ export class AppComponent {
     {
       title: 'Home Work',
       url: '/list',
-      icon: 'list',
+      icon: 'document',
       color: 'purple'
     },
     {
       title: 'Daily Report',
       url: '/list',
-      icon: 'list',
+      icon: 'albums',
       color: 'orange'
     },
     {
       title: 'Time Table',
       url: '/list',
-      icon: 'list',
+      icon: 'clock',
       color: 'deeppink'
     },
     {
